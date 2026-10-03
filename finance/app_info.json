@@ -1,0 +1,61 @@
+{
+  "services": [
+    {
+      "title": "Populer",
+      "services": [
+        {
+          "name": "Pulsa",
+          "actionType": "pulsa",
+          "actionData": {},
+          "iconType": "cupertino",
+          "iconData": "62648"
+        },
+        {
+          "name": "Paket Data",
+          "actionType": "category",
+          "actionData": {
+            "id": "20"
+          },
+          "iconType": "cupertino",
+          "iconData": "62751"
+        },
+        {
+          "name": "E-wallet",
+          "actionType": "category",
+          "actionData": {
+            "id": "8"
+          },
+          "iconType": "material",
+          "iconData": "60979"
+        },
+        {
+          "name": "Listrik",
+          "actionType": "category",
+          "actionData": {
+            "id": "15"
+          },
+          "iconType": "cupertino",
+          "iconData": "63197"
+        },
+        {
+          "name": "Games",
+          "actionType": "category",
+          "actionData": {
+            "id": "1"
+          },
+          "iconType": "material",
+          "iconData": "58065"
+        },
+        {
+          "name": "Tagihan Internet",
+          "actionType": "category",
+          "actionData": {
+            "id": "18"
+          },
+          "iconType": "material",
+          "iconData": "59111"
+        }
+      ]
+    }
+  ]
+}
