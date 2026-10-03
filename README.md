@@ -17,16 +17,16 @@ I started Kuduga in **August 2023** as my first real-world Flutter project. I la
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/360d07cf-7220-43ee-8148-abe3f8122eb6" alt="Kuduga app overview" width="400">
+  <img src="screenshots/overview.png" alt="Kuduga app overview" width="400">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3be673f4-ce52-4e24-baac-8bc4ca605907" alt="Kuduga app screenshot 1" height="400">
-  <img src="https://github.com/user-attachments/assets/933cdbdf-e319-44c5-828e-753fc9791d4a" alt="Kuduga app screenshot 2" height="400">
-  <img src="https://github.com/user-attachments/assets/829498a9-6643-41f1-a3be-772562d3852f" alt="Kuduga app screenshot 3" height="400">
-  <img src="https://github.com/user-attachments/assets/b17bab87-7be7-4ada-839f-97c059a767f0" alt="Kuduga app screenshot 4" height="400">
-  <img src="https://github.com/user-attachments/assets/b226385d-dae2-4e93-907e-e12e419b156b" alt="Kuduga app screenshot 5" height="400">
-  <img src="https://github.com/user-attachments/assets/f99a38a2-bd28-498a-b0b7-83ad72c40cfc" alt="Kuduga app screenshot 6" height="400">
+  <img src="screenshots/screenshot-1.png" alt="Kuduga app screenshot 1" height="400">
+  <img src="screenshots/screenshot-2.png" alt="Kuduga app screenshot 2" height="400">
+  <img src="screenshots/screenshot-3.png" alt="Kuduga app screenshot 3" height="400">
+  <img src="screenshots/screenshot-4.png" alt="Kuduga app screenshot 4" height="400">
+  <img src="screenshots/screenshot-5.png" alt="Kuduga app screenshot 5" height="400">
+  <img src="screenshots/screenshot-6.png" alt="Kuduga app screenshot 6" height="400">
 </p>
 
 ## Technology
